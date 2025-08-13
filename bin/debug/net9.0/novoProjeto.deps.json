@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "novoProjeto/1.0.0": {
+        "runtime": {
+          "novoProjeto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "novoProjeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
